@@ -54,10 +54,13 @@ IC design and development should be faster simpler and more reliable
     10. program the bit file to the fpga board
     11. enjoy the application development
 # How to get the FPGA
+#如何获得FPGA
     apply from the url https://www.t-head.cn/product/mcu-platform?spm=a2ouz.12987052.0.0.167548abiiSAQs
 # How to get the debug tool
+#如何获得debug工具
     download from the url https://www.t-head.cn/product/mcu-platform?spm=a2ouz.12987052.0.0.167548abiiSAQs 
 # How to get the IDE for development
+
     download from the url https://www.t-head.cn/product/mcu-platform?spm=a2ouz.12987052.0.0.167548abiiSAQs  
 # How to use the sdk
 wujian100_open SDK is wujian100_open software development kit, the software follows the CSI interface specification. Through the SDK users can quickly wujian100_open test and evaluation. At the same time users can refer to the SDK integration of various commonly used components and sample procedures for application development quickly form a product solution.
