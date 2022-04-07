@@ -60,9 +60,10 @@ IC design and development should be faster simpler and more reliable
 #如何获得debug工具
     download from the url https://www.t-head.cn/product/mcu-platform?spm=a2ouz.12987052.0.0.167548abiiSAQs 
 # How to get the IDE for development
-
+#如何为开发准备集成开发环境    IDE：集成开发环境
     download from the url https://www.t-head.cn/product/mcu-platform?spm=a2ouz.12987052.0.0.167548abiiSAQs  
 # How to use the sdk
+#如何使用软件开发工具包    sdk：软件开发工具包
 wujian100_open SDK is wujian100_open software development kit, the software follows the CSI interface specification. Through the SDK users can quickly wujian100_open test and evaluation. At the same time users can refer to the SDK integration of various commonly used components and sample procedures for application development quickly form a product solution.
 ```
 SDK directory structure:
