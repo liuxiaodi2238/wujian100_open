@@ -6,10 +6,11 @@ We can simulate by EDA tools and emulate by FPGA.
 Also we can develop the IPs and software in this platform. 
 我们也可以在这个平台里开发ip和软件。
 We wish more and more developers building the open MCU ecosystem with T-Head. 
-
+我们希望越来越多的开发者和T-head一起构建开源MCU生态。
 IC design and development should be faster simpler and more reliable
+（促使）集成电路的设计和开发更快更稳定可靠。
     
-    Directory Structure
+    Directory Structure   文件结构
     |--Project                //open source project work directory  
       |--riscv_toolchain      //tool chain install directory download from t-head.cn
       |--wujian100_open       //wujian100_open project get from github
