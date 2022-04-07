@@ -1,8 +1,12 @@
 # wujian100_open 
-wujian100_open is a MCU base SoC. 开源的无剑100是一个基于SOC的MCU（单片机）。
-We can simulate by EDA tools and emulate by FPGA. 我们可以通过EDA工具模拟，通过FPGA进行仿真。
+wujian100_open is a MCU base SoC. 
+开源的无剑100是一个基于SOC的MCU（单片机）。
+We can simulate by EDA tools and emulate by FPGA. 
+我们可以通过EDA工具模拟，通过FPGA进行仿真。
 Also we can develop the IPs and software in this platform. 
+我们也可以在这个平台里开发ip和软件。
 We wish more and more developers building the open MCU ecosystem with T-Head. 
+
 IC design and development should be faster simpler and more reliable
     
     Directory Structure
